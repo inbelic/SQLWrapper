@@ -1,12 +1,12 @@
 # SQLWrapper
-Writing a wrapper for SQLite3 in python
+Writing a wrapper application for SQLite3 in python
 
 
-# Purpose
+## Purpose
 The purpose of writing a wrapper class for SQLite3 was to help my understanding of how SQL works.
 
 
-# Function
+## Function
 You can use the code to make a server with a database file that holds sql tables that can be modified by any of the clients.
 
 As of upload it contains basic querying as well as adding columns to a table and creating a table.
