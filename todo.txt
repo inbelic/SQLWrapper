@@ -1,0 +1,17 @@
+# TO DO
+### Commands to add to SQLWrapper:
+# - ORDER BY [X]
+# - DELETE [ ]
+# - SELECT TOP [ ]
+# - MIN, MAX, COUNT, ... [X]
+# - UPDATE [ ]
+# - ALIAS (AS) [ ]
+# - JOINS ALL [ ]
+# - UNION [ ]
+# - GROUP BY [ ]
+# - (INSERT) SELECT INTO [ ]
+
+# - Primary, Foreign Keys [ ] 
+# - CHECK [ ] 
+# - DEFAULT [ ]
+# - AUTO-INC [ ]
